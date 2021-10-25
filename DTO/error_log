@@ -1,0 +1,1 @@
+[20-Feb-2020 16:23:28 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/gimmidsc/public_html/api/DTO/pacientes_DTO.php on line 48
